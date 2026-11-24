@@ -3,7 +3,7 @@
 
 **Zenith Pro Suite** is a next-generation, AI-integrated productivity ecosystem designed specifically for power users. Built as a premium framework for high-performance Chrome Extensions, it combines neural-assisted interaction, real-time browsing analytics, and advanced focus management tools into one seamless interface.
 
-Developed and maintained by **[khdxsohee](https://github.com/khdxsohee)**.
+Developed and maintained by **[farhan-swe](https://github.com/farhan-swe)**.
 
 ---
 
@@ -68,7 +68,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 ## 👤 Owner
-**GitHub ID**: [khdxsohee](https://github.com/khdxsohee)  
+**GitHub ID**: [farhan-swe](https://github.com/farhan-swe)  
 **Profile**: Zenith Pro Suite Lead Architect
 
 ---
